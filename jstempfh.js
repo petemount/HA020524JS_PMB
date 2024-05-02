@@ -3,7 +3,7 @@ function temprechner(celsius) {
   console.log(
     "Die Temperatur in " +
       celsius +
-      " Grad beträgt Fahrenheit " +
+      " Grad beträgt in Fahrenheit " +
       fahrenheit +
       " Grad."
   );
